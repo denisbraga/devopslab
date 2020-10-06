@@ -19,3 +19,6 @@ deploy:
   api_key: $HEROKU_API_KEY
   edge: true 
   app: devopslab-denis
+  strategy: api
+  dist: xenial
+  os: linux
