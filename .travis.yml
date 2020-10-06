@@ -1,4 +1,6 @@
 # Linguagem Utilizada para Desenvolver a Aplicação                                                                                                                                                       
+os: linux
+dist: xenial
 language: python                                                                                                                                                                                         
 
 # Versão que a aplicação suporta.                                                                                                                                                                        
