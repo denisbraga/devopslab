@@ -20,6 +20,3 @@ deploy:
   edge: true 
   app: devopslab-denis
   strategy: api
-root:
-  dist: xenial
-  os: linux
